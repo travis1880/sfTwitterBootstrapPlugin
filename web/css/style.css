@@ -418,3 +418,11 @@ table .purple {
 table .headerSortUp.purple, table .headerSortDown.purple {
   background-color: #e2d5f0;
 }
+div.controls select {
+	width: auto;
+}
+div.rowContainer
+{
+	clear:both;
+	padding-bottom: 20px;
+}
